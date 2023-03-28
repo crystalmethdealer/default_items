@@ -1,0 +1,488 @@
+Silencer's Shield:28:default_item:silencer:offhand_weapon
+Nature's Prophet Horns:30:default_item:furion:head
+Nature's Prophet Beard:31:default_item:furion:neck
+Nature's Prophet Cape:32:default_item:furion:back
+Nature's Prophet Necklace:33:default_item:furion:shoulder
+Tidehunter's Bracer:34:default_item:tidehunter:arms
+Tidehunter's Belt:35:default_item:tidehunter:belt
+Tidehunter's Lunch:37:default_item:tidehunter:offhand_weapon
+Crystal Maiden's Cape:38:default_item:crystal_maiden:back
+Crystal Maiden's Shoulder Pads:39:default_item:crystal_maiden:shoulder
+Crystal Maiden's Cuffs:41:default_item:crystal_maiden:arms
+Omniknight's Shoulders:42:default_item:omniknight:shoulder
+Omniknight's Cape:43:default_item:omniknight:back
+Omniknight's Head:45:default_item:omniknight:body_head
+Omniknight's Hair:46:default_item:omniknight:head
+Invoker's Cape:48:default_item:invoker:back
+Nature's Prophet Bracers:49:default_item:furion:arms
+Bounty Hunter's Offhand Weapon:51:default_item:bounty_hunter:offhand_weapon
+Bounty Hunter's Back:52:default_item:bounty_hunter:back
+Bounty Hunter's Armor:53:default_item:bounty_hunter:armor
+Bounty Hunter's Shoulder:54:default_item:bounty_hunter:shoulder
+Bounty Hunter's Bandana:55:default_item:bounty_hunter:head
+Clinkz Skull:56:default_item:clinkz:body_head
+Clinkz Shoulder Pads:58:default_item:clinkz:shoulder
+Clinkz Quiver:59:default_item:clinkz:back
+Clinkz Horns:60:default_item:clinkz:head
+Clinkz Gloves:61:default_item:clinkz:gloves
+Juggernaut's Legs:62:default_item:juggernaut:legs
+Dragon Knight's Helmet:63:default_item:dragon_knight:head
+Dragon Knight's Shoulder Armor:64:default_item:dragon_knight:shoulder
+Dragon Knight's Bracers:65:default_item:dragon_knight:arms
+Dragon Knight's Offhand:67:default_item:dragon_knight:offhand_weapon
+Dragon Knight's Skirt:68:default_item:dragon_knight:back
+Blood Seeker's Headdress:70:default_item:blood_seeker:head
+Blood Seeker's Offhand Blade:71:default_item:blood_seeker:offhand_weapon
+Blood Seeker's Necklace:72:default_item:blood_seeker:shoulder
+Blood Seeker's Cape:73:default_item:blood_seeker:back
+Blood Seeker's Bracers:74:default_item:blood_seeker:arms
+Drow's Bracers:75:default_item:drow:arms
+Drow's Cape:76:default_item:drow:back
+Drow's Leg Armor:78:default_item:drow:legs
+Drow's Quiver:79:default_item:drow:misc
+Drow's Shoulder Armor:80:default_item:drow:shoulder
+Kunkka's Spyglass:81:default_item:kunkka:belt
+Queen of Pain's Wings:82:default_item:queenofpain:back
+Queen of Pain's Armor:83:default_item:queenofpain:shoulder
+Queen of Pain's Hair:84:default_item:queenofpain:head
+Ursa's Helmet:85:default_item:ursa:head
+Ursa's Fur:86:default_item:ursa:back
+Ursa's Bracers:87:default_item:ursa:arms
+Ursa's Belt:88:default_item:ursa:belt
+Invoker's Shoulder:89:default_item:invoker:shoulder
+Faceless Void's Head:90:default_item:faceless_void:body_head
+Faceless Void's Shoulder:91:default_item:faceless_void:shoulder
+Faceless Void's Bracer:92:default_item:faceless_void:arms
+Faceless Void's Belt:93:default_item:faceless_void:belt
+Witch Doctor's Head:94:default_item:witchdoctor:head
+Witch Doctor's Bag:95:default_item:witchdoctor:shoulder
+Witch Doctor's Belt:96:default_item:witchdoctor:belt
+Invoker's Head:98:default_item:invoker:body_head
+Invoker's Hair:99:default_item:invoker:head
+Invoker's Bracer:100:default_item:invoker:arms
+Broodmother's Hair:101:default_item:broodmother:head
+Broodmother's Legs:102:default_item:broodmother:legs
+Broodmother's Abdomen:103:default_item:broodmother:back
+Spirit Breaker's Head:106:default_item:spirit_breaker:body_head
+Lone Druid's Hair:107:default_item:lone_druid:head
+Lone Druid's Shoulder Armor:108:default_item:lone_druid:shoulder
+Lone Druid's Bracers:109:default_item:lone_druid:arms
+Lone Druid's Tunic:110:default_item:lone_druid:back
+Spirit Breaker's Horns:111:default_item:spirit_breaker:head
+Spirit Breaker's Shoulder Armor:112:default_item:spirit_breaker:shoulder
+Spirit Breaker's Tail:114:default_item:spirit_breaker:tail
+Spirit Breaker's Bracers:115:default_item:spirit_breaker:arms
+Spirit Breaker's Belt:116:default_item:spirit_breaker:belt
+Alchemist's Goblin Body:117:default_item:alchemist:back
+Alchemist's Saddle:119:default_item:alchemist:armor
+Alchemist's Gauntlets:120:default_item:alchemist:arms
+Alchemist's Goblin Hat:121:default_item:alchemist:neck
+Alchemist's Left Bottle:122:default_item:alchemist:offhand_weapon
+Alchemist's Goblin Head:123:default_item:alchemist:head
+Alchemist's Ogre Head:124:default_item:alchemist:body_head
+Alchemist's Shoulder Bottle:125:default_item:alchemist:shoulder
+Gyrocopter's Bottles:126:default_item:gyro:back
+Phantom Lancer's Head:127:default_item:phantom_lancer:body_head
+Phantom Lancer's Belt:128:default_item:phantom_lancer:belt
+Phantom Lancer's Gauntlet:129:default_item:phantom_lancer:arms
+Phantom Lancer's Shoulderpad:130:default_item:phantom_lancer:shoulder
+Gyrocopter's head:131:default_item:gyro:body_head
+Ogre Magi's Cape:133:default_item:ogre_magi:back
+Ogre Magi's Bracers:134:default_item:ogre_magi:arms
+Ogre Magi's Hats:135:default_item:ogre_magi:head
+Ogre Magi's Belt:136:default_item:ogre_magi:belt
+Phantom Assassin's Helmet:137:default_item:phantom_assassin:head
+Phantom Assassin's Shoulder Pads:138:default_item:phantom_assassin:shoulder
+Phantom Assassin's Cape:139:default_item:phantom_assassin:back
+Phantom Assassin's Daggers:141:default_item:phantom_assassin:belt
+Disruptor's Bracers:143:default_item:disruptor:arms
+Disruptor's Hair:144:default_item:disruptor:head
+Disruptor's Back:145:default_item:disruptor:back
+Disruptor's Shoulder Armor:146:default_item:disruptor:shoulder
+Disruptor's Mount:147:default_item:disruptor:legs
+Wraith King's Head:148:default_item:wraith_king:head
+Wraith King's Shoulder:150:default_item:wraith_king:shoulder
+Wraith King's Gauntlet:151:default_item:wraith_king:arms
+Wraith King's Cape:152:default_item:wraith_king:back
+Pugna's Head:153:default_item:pugna:head
+Pugna's Cape:154:default_item:pugna:back
+Pugna's Bracers:155:default_item:pugna:arms
+Pugna's Belt:157:default_item:pugna:belt
+Brewmaster's Barrel:159:default_item:brewmaster:offhand_weapon
+Brewmaster's Bracers:160:default_item:brewmaster:arms
+Brewmaster's Backpack:161:default_item:brewmaster:back
+Brewmaster's Shoulders:162:default_item:brewmaster:shoulder
+Riki's Horns:163:default_item:rikimaru:head
+Riki's Shoulder Armor:164:default_item:rikimaru:shoulder
+Riki's Tail:165:default_item:rikimaru:tail
+Riki's Gloves:166:default_item:rikimaru:arms
+Pugna's Shoulder:167:default_item:pugna:shoulder
+Death Prophet's Dress:168:default_item:death_prophet:legs
+Death Prophet's Hair:169:default_item:death_prophet:head
+Death Prophet's Corset:170:default_item:death_prophet:armor
+Death Prophet's Scarf:171:default_item:death_prophet:belt
+Templar Assassin's Hair:173:default_item:lanaya:head
+Templar Assassin's Shoulders:174:default_item:lanaya:shoulder
+Templar Assassin's Armor:175:default_item:lanaya:armor
+Gyrocopter's Goggles:176:default_item:gyro:head
+Gyrocopter's Propeller:178:default_item:gyro:misc
+Gyrocopter's Homing Missile:179:default_item:gyro:offhand_weapon
+Sand King's Head:180:default_item:sand_king:body_head
+Chaos Knight's Horse:181:default_item:chaos_knight:mount
+Chaos Knight's Shoulder Guards:183:default_item:chaos_knight:shoulder
+Chaos Knight's Helmet:184:default_item:chaos_knight:head
+Chaos Knight's Shield:186:default_item:chaos_knight:offhand_weapon
+Outworld Devourer's Horns:187:default_item:obsidian_destroyer:head
+Outworld Devourer's Armor:188:default_item:obsidian_destroyer:armor
+Outworld Devourer's Wings:190:default_item:obsidian_destroyer:back
+Naga Siren's Head:191:default_item:siren:head
+Naga Siren's Tail:193:default_item:siren:legs
+Naga Siren's Armor:194:default_item:siren:armor
+Nyx's Armor:196:default_item:nerubian_assassin:back
+Nyx's Helmet:197:default_item:nerubian_assassin:head
+Sand King's Shoulders:198:default_item:sand_king:shoulder
+Sand King's Claws:199:default_item:sand_king:arms
+Sand King's Legs:200:default_item:sand_king:legs
+Sand King's Tail:201:default_item:sand_king:back
+Rubick's Cape:204:default_item:rubick:back
+Rubick's Shoulder Armor:205:default_item:rubick:shoulder
+Lycan's Head:207:default_item:lycan:body_head
+Lycan's Armor:208:default_item:lycan:armor
+Lycan's Fur:209:default_item:lycan:shoulder
+Lycan's Belt:210:default_item:lycan:belt
+Necrophos' Beard:212:default_item:necrolyte:body_head
+Necrophos' Headdress:213:default_item:necrolyte:head
+Necrophos' Vestments:214:default_item:necrolyte:shoulder
+Anti-Mage's Head:215:default_item:antimage:head
+Anti-Mage's Armor:216:default_item:antimage:armor
+Anti-Mage's Arms:217:default_item:antimage:arms
+Anti-Mage's Belt:218:default_item:antimage:belt
+Chen's Mount:221:default_item:chen:mount
+Chen's Helmet:222:default_item:chen:head
+Chen's Bracers:223:default_item:chen:arms
+Chen's Shoulder Armor:224:default_item:chen:shoulder
+Outworld Devourer's Head:226:default_item:obsidian_destroyer:body_head
+Treant Protector's Head:227:default_item:treant_protector:head
+Treant Protector's Foliage:228:default_item:treant_protector:shoulder
+Treant Protector's Hands:229:default_item:treant_protector:arms
+Treant Protector's Feet:230:default_item:treant_protector:legs
+Clockwerk's Rocket:231:default_item:rattletrap:misc
+Doom's Helmet:233:default_item:doom:head
+Doom's Shoulder Armor:234:default_item:doom:shoulder
+Doom's Bracers:235:default_item:doom:arms
+Doom's Belt:236:default_item:doom:belt
+Doom's Wings:237:default_item:doom:back
+Doom's Tail:238:default_item:doom:tail
+Warlock's Lantern:240:default_item:warlock:offhand_weapon
+Warlock's Head:241:default_item:warlock:head
+Warlock's Shoulder:242:default_item:warlock:shoulder
+Warlock's Arms:243:default_item:warlock:arms
+Warlock's Robe:244:default_item:warlock:back
+Warlock's Bag:245:default_item:warlock:belt
+Shadow Shaman's Off-hand Weapon:247:default_item:shadowshaman:offhand_weapon
+Shadow Shaman's Headdress:248:default_item:shadowshaman:head
+Shadow Shaman's Armor:249:default_item:shadowshaman:arms
+Shadow Shaman's Belt:250:default_item:shadowshaman:belt
+Shadow Shaman's Head:251:default_item:shadowshaman:body_head
+Keeper of the Light Horse:252:default_item:keeper_of_the_light:mount
+Keeper of the Light Hood:254:default_item:keeper_of_the_light:head
+Keeper of the Light Skirt:255:default_item:keeper_of_the_light:belt
+Keeper of the Light Horse Armor:256:default_item:keeper_of_the_light:armor
+Blood Seeker's Skirt:257:default_item:blood_seeker:belt
+Pudge's Back Rings and Apron:258:default_item:pudge:back
+Pudge's Cleaver:259:default_item:pudge:offhand_weapon
+Pudge's Left Arm:260:default_item:pudge:shoulder
+Pudge's Bracer:261:default_item:pudge:arms
+Pudge's Toupee:262:default_item:pudge:head
+Dazzle's Mohawk:263:default_item:dazzle:back
+Dazzle's Skirt:265:default_item:dazzle:legs
+Dazzle's Sleeve:266:default_item:dazzle:arms
+Drow's Headwear:267:default_item:drow:head
+Huskar's Dagger:269:default_item:huskar:offhand_weapon
+Huskar's Helmet:270:default_item:huskar:head
+Huskar's Shoulder:271:default_item:huskar:shoulder
+Huskar's Bracer:272:default_item:huskar:arms
+Slardar Fin:274:default_item:slardar:back
+Slardar Arms:276:default_item:slardar:arms
+Weaver's Antennae:277:default_item:weaver:head
+Weaver's Legs:278:default_item:weaver:legs
+Weaver's Arms:279:default_item:weaver:arms
+Weaver's Back:280:default_item:weaver:back
+Sniper's Cape:282:default_item:sniper:back
+Sniper's Head Gear:283:default_item:sniper:head
+Sniper's Shoulder Armor:284:default_item:sniper:shoulder
+Sniper's Bracers:285:default_item:sniper:arms
+Enchantress' Necklace:286:default_item:enchantress:neck
+Enchantress' Hair:287:default_item:enchantress:head
+Enchantress' Dress:288:default_item:enchantress:belt
+Enchantress' Bracers:289:default_item:enchantress:arms
+Venomancer's Jaw:291:default_item:venomancer:head
+Venomancer's Shoulders:292:default_item:venomancer:shoulder
+Venomancer's Arms:293:default_item:venomancer:arms
+Venomancer's Tail:294:default_item:venomancer:tail
+Meepo's Hood:296:default_item:meepo:head
+Meepo's Backpack:297:default_item:meepo:back
+Meepo's Shoulderpads:298:default_item:meepo:shoulder
+Meepo's Bracers:299:default_item:meepo:arms
+Meepo's Tail:300:default_item:meepo:tail
+Silencer's Bracers:301:default_item:silencer:arms
+Silencer's Helmet:302:default_item:silencer:head
+Silencer's Shoulders:303:default_item:silencer:shoulder
+Silencer's Robe:304:default_item:silencer:belt
+Invoker's Belt:305:default_item:invoker:belt
+Terrorblade's Wings:306:default_item:terrorblade:back
+Storm Spirit's Hat:308:default_item:storm_spirit:head
+Storm Spirit's Shoulder:309:default_item:storm_spirit:arms
+Storm Spirit's Armor:310:default_item:storm_spirit:armor
+Crystal Maiden's Headdress:311:default_item:crystal_maiden:head
+Naga Siren's Offhand Sword:312:default_item:siren:offhand_weapon
+Beastmasters's Head:314:default_item:beastmaster:head
+Beastmaster's Shoulder:315:default_item:beastmaster:shoulder
+Beastmaster's Arms:316:default_item:beastmaster:arms
+Beastmaster's Belt:317:default_item:beastmaster:belt
+Lina's Jewelry:318:default_item:lina:neck
+Lina's Hair:319:default_item:lina:head
+Lina's Sleeves:320:default_item:lina:arms
+Lina's Dress:321:default_item:lina:belt
+Riki's Offhand Dagger:322:default_item:rikimaru:offhand_weapon
+Spectre's Head:323:default_item:spectre:head
+Spectre's Dress:324:default_item:spectre:belt
+Spectre's Shoulders:325:default_item:spectre:shoulder
+Magnus' Hair:326:default_item:magnataur:head
+Magnus' Horn:327:default_item:magnataur:misc
+Magnus' Bracers:328:default_item:magnataur:arms
+Magnus' Belt:329:default_item:magnataur:belt
+Lich's Belt:331:default_item:lich:belt
+Lich's Neck:332:default_item:lich:neck
+Lich's Bracers:333:default_item:lich:arms
+Lich's Back:334:default_item:lich:back
+Anti-Mage's Offhand Glaive:335:default_item:antimage:offhand_weapon
+Nightstalker's Wings:337:default_item:nightstalker:back
+Nightstalker's Armor:338:default_item:nightstalker:legs
+Nightstalker's Tail:339:default_item:nightstalker:tail
+Razor's Head:341:default_item:razor:head
+Razor's Armor:342:default_item:razor:armor
+Razor's Bracers:343:default_item:razor:arms
+Razor's Robe:344:default_item:razor:belt
+Leshrac's Armor:345:default_item:leshrac:back
+Leshrac's Head:346:default_item:leshrac:head
+Leshrac's Tail:347:default_item:leshrac:tail
+Dark Seer's Spikes:348:default_item:dark_seer:back
+Dark Seer's Head:349:default_item:dark_seer:head
+Dark Seer's Bracers:350:default_item:dark_seer:arms
+Dark Seer's Loin Cloth:351:default_item:dark_seer:belt
+Dark Seer's Neck Armor:352:default_item:dark_seer:shoulder
+Slark's Bracers:353:default_item:slark:arms
+Slark's Shoulder Armor:354:default_item:slark:shoulder
+Slark's Cape:355:default_item:slark:back
+Slark's Hood:356:default_item:slark:head
+Kunkka's Shoulder Guard:357:default_item:kunkka:shoulder
+Centaur Warrunner's Head:359:default_item:centaur:head
+Centaur Warrunner's Shoulders:360:default_item:centaur:shoulder
+Centaur Warrunner's Belt:361:default_item:centaur:belt
+Centaur Warrunner's Trophies:362:default_item:centaur:back
+Centaur Warrunner's Bracers:363:default_item:centaur:arms
+Centaur Warrunner's Tail:364:default_item:centaur:tail
+Lion's Cape:366:default_item:lion:back
+Lion's Shoulders:368:default_item:lion:shoulder
+Lion's Demon Arm:369:default_item:lion:arms
+Puck's Wings:370:default_item:puck:back
+Puck's Tail:371:default_item:puck:tail
+Puck's Head:372:default_item:puck:head
+Troll Warlord's Default Off-Hand Weapon:374:default_item:troll_warlord:offhand_weapon
+Batrider's Head:375:default_item:batrider:head
+Batrider's Cloak:376:default_item:batrider:shoulder
+Batrider's Belt:377:default_item:batrider:belt
+Batrider's Mount:378:default_item:batrider:mount
+Troll Warlord's Default Melee Weapon:379:default_item:troll_warlord:weapon2
+Troll Warlord's Default Melee Off-Hand Weapon:380:default_item:troll_warlord:offhand_weapon2
+Medusa's Veil:382:default_item:medusa:head
+Medusa's Chest Armor:383:default_item:medusa:armor
+Medusa's Bracers:384:default_item:medusa:arms
+Medusa's Tail:385:default_item:medusa:tail
+Timbersaw's Hat:386:default_item:shredder:head
+Shadow Fiend's Head:387:default_item:shadow_fiend:head
+Timbersaw's Left Arm:388:default_item:shredder:offhand_weapon
+Timbersaw's Shoulders:389:default_item:shredder:shoulder
+Timbersaw's Torso:390:default_item:shredder:back
+Undying's Helmet:392:default_item:undying:head
+Undying's Armor:393:default_item:undying:armor
+Shadow Demon's Cape:396:default_item:shadow_demon:back
+Shadow Demon's Armor:397:default_item:shadow_demon:armor
+Shadow Demon's Belt:398:default_item:shadow_demon:belt
+Shadow Demon's Tail:399:default_item:shadow_demon:tail
+Timbersaw's Waist Saw:400:default_item:shredder:belt
+Timbersaw's Armor:401:default_item:shredder:armor
+Mirana's Mount:404:default_item:mirana:mount
+Mirana's Headdress:405:default_item:mirana:head
+Mirana's Cape:406:default_item:mirana:back
+Mirana's Shoulders:407:default_item:mirana:shoulder
+Mirana's Bracers:408:default_item:mirana:arms
+Mirana's Quiver:409:default_item:mirana:misc
+Troll Warlord's Default Shoulders:410:default_item:troll_warlord:shoulder
+Troll Warlord's Default Head:411:default_item:troll_warlord:head
+Troll Warlord's Default Armor:412:default_item:troll_warlord:armor
+Tusk's Armored Glove:413:default_item:tuskarr:arms
+Tusk's Cowl:414:default_item:tuskarr:shoulder
+Tusk's Hat:415:default_item:tuskarr:head
+Tusk's Tusks:416:default_item:tuskarr:neck
+Tusk's Fish Basket:418:default_item:tuskarr:back
+Rubick's Head:419:default_item:rubick:head
+Skywrath Mage's Head:421:default_item:skywrath_mage:head
+Skywrath Mage's Wings:422:default_item:skywrath_mage:back
+Skywrath Mage's Belt:423:default_item:skywrath_mage:belt
+Skywrath Mage's Shoulders:424:default_item:skywrath_mage:shoulder
+Skywrath Mage's Bracers:425:default_item:skywrath_mage:arms
+Elder Titan's Bracers:427:default_item:elder_titan:arms
+Elder Titan's Head:428:default_item:elder_titan:head
+Elder Titan's Shoulders:429:default_item:elder_titan:shoulder
+Elder Titan's Back Totem:430:default_item:elder_titan:back
+Legion Commander's Helmet:431:default_item:legion_commander:head
+Legion Commander's Shoulder Armor:432:default_item:legion_commander:shoulder
+Legion Commander's Banners:433:default_item:legion_commander:back
+Legion Commander's Bracers:435:default_item:legion_commander:arms
+Bristleback's Back:436:default_item:bristleback:back
+Bristleback's Head:437:default_item:bristleback:head
+Bristleback's Bracers:439:default_item:bristleback:arms
+Bristleback's Necklace:440:default_item:bristleback:neck
+Vengeful Spirit's Hair:441:default_item:vengeful:head
+Lifestealer's Belt:443:default_item:life_stealer:belt
+Lifestealer's Chains:444:default_item:life_stealer:arms
+Vengeful Spirit's Upper Armor:445:default_item:vengeful:shoulder
+Vengeful Spirit's Legs:447:default_item:vengeful:legs
+Luna's Shield:449:default_item:luna:offhand_weapon
+Luna's Helmet:450:default_item:luna:head
+Luna's Shoulder Armor:451:default_item:luna:shoulder
+Luna's Mount:452:default_item:luna:mount
+Luna's Head:453:default_item:luna:body_head
+Abaddon's Helmet:455:default_item:abaddon:head
+Abaddon's Cape:456:default_item:abaddon:back
+Abaddon's Shoulder Armor:457:default_item:abaddon:shoulder
+Abaddon's Mount:458:default_item:abaddon:mount
+Earthshaker's Bracers:460:default_item:earthshaker:arms
+Earthshaker's Belt:461:default_item:earthshaker:belt
+Ember Spirit's Head Item:462:default_item:ember_spirit:head
+Tinker's Left Arm:463:default_item:tinker:offhand_weapon
+Tinker's Shoulders:464:default_item:tinker:shoulder
+Tinker's Helmet:465:default_item:tinker:head
+Tinker's Head:466:default_item:tinker:body_head
+Tinker's Cape:467:default_item:tinker:back
+Dazzle's Shoulders:468:default_item:dazzle:misc
+Ember Spirit's Shoulders:469:default_item:ember_spirit:shoulder
+Pudge's Belt:470:default_item:pudge:belt
+Ember Spirit's Belt Item:471:default_item:ember_spirit:belt
+Ember Spirit's Offhand Weapon:473:default_item:ember_spirit:offhand_weapon
+Ember Spirit's Arms:474:default_item:ember_spirit:arms
+Terrorblade's Armor:476:default_item:terrorblade:armor
+Earth Spirit's Head Accessory:477:default_item:earth_spirit:head
+Terrorblade's Head:478:default_item:terrorblade:head
+Earth Spirit's Belt:479:default_item:earth_spirit:belt
+Earth Spirit's Neck:480:default_item:earth_spirit:neck
+Earth Spirit's Arms:481:default_item:earth_spirit:arms
+Earth Spirit's Head:482:default_item:earth_spirit:body_head
+Clockwerk's Armor:484:default_item:rattletrap:armor
+Clockwerk's Head:485:default_item:rattletrap:head
+Shadow Fiend's Shoulders:486:default_item:shadow_fiend:shoulder
+Techies Spoon Costume:487:default_item:techies:back
+Shadow Fiend's Arms:488:default_item:shadow_fiend:arms
+Techies Cart:490:default_item:techies:mount
+Techies Squee Costume:491:default_item:techies:head
+Techies Spleen Costume:492:default_item:techies:shoulder
+Tiny's Head:493:default_item:tiny_01:head
+Tiny's Body:494:default_item:tiny_01:armor
+Tiny's Left Arm:495:default_item:tiny_01:arms
+Tiny's Right Arm:496:default_item:tiny_01:offhand_weapon
+Wraith King's Chest:500:default_item:wraith_king:armor
+Oracle's Armor:546:default_item:oracle:armor
+Oracle's Back Item:547:default_item:oracle:back
+Oracle's Head Item:548:default_item:oracle:head
+Winter Wyvern's Headdress:551:default_item:winterwyvern:head
+Winter Wyvern's Pelt:552:default_item:winterwyvern:back
+Arc Warden's Bracers:556:default_item:arc_warden:arms
+Arc Warden's Shoulders:557:default_item:arc_warden:shoulder
+Zeus' Arms:589:default_item:zeus:arms
+Phoenix's Head:592:default_item:phoenix:head
+Monkey King Head:594:default_item:monkey_king:head
+Arc Warden's Back:598:default_item:arc_warden:back
+Zeus' Head:604:default_item:zeus:head
+Zeus' Belt:606:default_item:zeus:belt
+Zeus' Back:607:default_item:zeus:back
+Monkey King Armor:608:default_item:monkey_king:armor
+Viper's Wings:611:default_item:viper:back
+Bane's Default Head:612:default_item:bane:head
+Bane's Default Shoulder:613:default_item:bane:shoulder
+Undying's Arm Armor:616:default_item:undying:arms
+Underlord's Armor:619:default_item:abyssal_underlord:armor
+Underlord's Head Item:620:default_item:abyssal_underlord:head
+Underlord's Head:622:default_item:abyssal_underlord:body_head
+Visage's Head:624:default_item:visage:head
+Visage's Armor:625:default_item:visage:armor
+Phoenix Wings:626:default_item:phoenix:back
+Jakiro's Wings:635:default_item:jakiro:back
+Dark Willow's Head:640:default_item:dark_willow:head
+Dark Willow's Offhand:641:default_item:dark_willow:offhand_weapon
+Dark Willow's Armor:642:default_item:dark_willow:armor
+Pangolier's Armor:644:default_item:pangolier:armor
+Pangolier's Head:645:default_item:pangolier:head
+Dark Willow's Wings:646:default_item:dark_willow:back
+Ancient Apparition's Shoulders:648:default_item:ancient_apparition:shoulder
+Dark Willow's Chakram:651:default_item:dark_willow:belt
+Ancient Apparition's Tail:652:default_item:ancient_apparition:tail
+Monkey King Shoulders:657:default_item:monkey_king:shoulder
+Necrophos' Skirt:659:default_item:necrolyte:legs
+Grimstroke's Belt:664:default_item:grimstroke:belt
+Grimstroke's Mask:667:default_item:grimstroke:head
+Grimstroke's Armor:668:default_item:grimstroke:armor
+Mars' Upper Body:670:default_item:mars:armor
+Mars' Lower Body:671:default_item:mars:legs
+Mars' Shield:672:default_item:mars:offhand_weapon
+Void Spirit's Head:687:default_item:void_spirit:head
+Void Spirit's Armor:688:default_item:void_spirit:armor
+Void Spirit's Belt:689:default_item:void_spirit:belt
+Snapfire's Head:691:default_item:snapfire:head
+Snapfire's Outfit:692:default_item:snapfire:costume
+Snapfire's Throne:693:default_item:snapfire:armor
+Snapfire's Mount (Mortimer):694:default_item:snapfire:mount
+Pudge Persona Weapon:696:default_item:pudge_cute:weapon_persona_1
+Pudge Persona Offhand Weapon:697:default_item:pudge_cute:offhand_weapon_persona_1
+Anti-Mage Persona Weapon:708:default_item:antimage_female:weapon_persona_1
+Pudge Persona Costume:712:default_item:pudge_cute:armor_persona_1
+Pudge Persona Head:713:default_item:pudge_cute:head_persona_1
+Anti-Mage Persona Offhand Weapon:714:default_item:antimage_female:offhand_weapon_persona_1
+Anti-Mage Persona Armor:715:default_item:antimage_female:armor_persona_1
+Anti-Mage Persona Hair:716:default_item:antimage_female:head_persona_1
+Mirana Persona Weapon:731:default_item:mirana_persona:weapon_persona_1
+Hoodwink's Hood:749:default_item:hoodwink:back
+Hoodwink's Costume:750:default_item:hoodwink:armor
+Hoodwink's Tail:751:default_item:hoodwink:tail
+Dawnbreaker's Head:755:default_item:dawnbreaker:head
+Dawnbreaker's Arms:756:default_item:dawnbreaker:arms
+Dawnbreaker's Armor:757:default_item:dawnbreaker:armor
+Dragon Knight Persona Armor:762:default_item:dragon_knight_persona:armor_persona_1
+Dragon Knight Persona Head:763:default_item:dragon_knight_persona:head_persona_1
+Dragon Knight Persona Weapon:765:default_item:dragon_knight_persona:weapon_persona_1
+Primal Beast Shoulder:769:default_item:primal_beast:arms
+Primal Beast Back:770:default_item:primal_beast:back
+Primal Beast Legs:771:default_item:primal_beast:legs
+Mirana Persona Head:773:default_item:mirana_persona:head_persona_1
+Mirana Persona Mount:774:default_item:mirana_persona:mount_persona_1
+Mirana Persona Armor:775:default_item:mirana_persona:armor_persona_1
+Mirana Persona Back:776:default_item:mirana_persona:back_persona_1
+Marci's Head:777:default_item:marci:head
+Marci's Tunic:778:default_item:marci:armor
+Marci's Back:779:default_item:marci:back
+Marci's Shoulders:780:default_item:marci:shoulder
+Queen of Pain's Legs:781:default_item:queenofpain:legs
+Phantom Assassin Persona Head:783:default_item:phantom_assassin_persona:head_persona_1
+Phantom Assassin Persona Armor:784:default_item:phantom_assassin_persona:armor_persona_1
+Phantom Assassin Persona Legs:785:default_item:phantom_assassin_persona:legs_persona_1
+Phantom Assassin Persona Weapon:786:default_item:phantom_assassin_persona:weapon_persona_1
+Crystal Maiden's Persona Mane:788:default_item:crystal_maiden_persona:head_persona_1
+Crystal Maiden's Persona Crystals:789:default_item:crystal_maiden_persona:misc_persona_1
+Crystal Maiden's Persona Tail:799:default_item:crystal_maiden_persona:tail_persona_1
+Crystal Maiden's Persona Armor:800:default_item:crystal_maiden_persona:armor_persona_1
+Pudge Persona Arms:805:default_item:pudge_cute:arms_persona_1
+Invoker Kid's Head:13043:default_item:invoker_kid:head_persona_1
+Invoker Kid's Shoulder:13044:default_item:invoker_kid:shoulder_persona_1
+Invoker Kid's Back:13045:default_item:invoker_kid:back_persona_1
+Invoker Kid's Arms:13046:default_item:invoker_kid:arms_persona_1
